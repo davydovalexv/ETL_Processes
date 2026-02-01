@@ -1,0 +1,494 @@
+[2026-01-30T21:10:41.960+0000] {processor.py:161} INFO - Started process (PID=175) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:10:41.962+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:10:41.963+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:10:41.963+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:10:43.423+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:10:43.635+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:10:43.635+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:10:43.655+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:10:43.655+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:10:43.684+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 1.729 seconds
+[2026-01-30T21:11:13.882+0000] {processor.py:161} INFO - Started process (PID=181) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:11:13.884+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:11:13.885+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:11:13.885+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:11:14.255+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:11:14.483+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:11:14.483+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:11:14.495+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:11:14.495+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:11:14.523+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.644 seconds
+[2026-01-30T21:11:44.818+0000] {processor.py:161} INFO - Started process (PID=187) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:11:44.819+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:11:44.820+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:11:44.820+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:11:45.124+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:11:45.157+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:11:45.155+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:11:45.172+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:11:45.171+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:11:45.201+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.388 seconds
+[2026-01-30T21:12:15.416+0000] {processor.py:161} INFO - Started process (PID=193) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:12:15.417+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:12:15.418+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:12:15.418+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:12:15.739+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:12:15.775+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:12:15.774+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:12:15.791+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:12:15.791+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:12:15.817+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.405 seconds
+[2026-01-30T21:12:46.086+0000] {processor.py:161} INFO - Started process (PID=202) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:12:46.087+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:12:46.088+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:12:46.088+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:12:46.404+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:12:46.432+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:12:46.432+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:12:46.446+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:12:46.446+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:12:46.467+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.385 seconds
+[2026-01-30T21:13:16.690+0000] {processor.py:161} INFO - Started process (PID=208) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:13:16.692+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:13:16.693+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:13:16.693+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:13:17.045+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:13:17.089+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:13:17.088+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:13:17.107+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:13:17.106+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:13:17.138+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.451 seconds
+[2026-01-30T21:13:47.368+0000] {processor.py:161} INFO - Started process (PID=214) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:13:47.370+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:13:47.371+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:13:47.371+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:13:47.808+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:13:47.860+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:13:47.858+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:13:47.878+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:13:47.878+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:13:47.901+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.539 seconds
+[2026-01-30T21:14:18.054+0000] {processor.py:161} INFO - Started process (PID=220) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:14:18.055+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:14:18.056+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:14:18.056+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:14:18.416+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:14:18.453+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:14:18.452+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:14:18.470+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:14:18.470+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:14:18.501+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.449 seconds
+[2026-01-30T21:14:48.749+0000] {processor.py:161} INFO - Started process (PID=226) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:14:48.750+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:14:48.752+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:14:48.751+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:14:49.083+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:14:49.118+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:14:49.117+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:14:49.133+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:14:49.132+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:14:49.156+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.412 seconds
+[2026-01-30T21:15:19.325+0000] {processor.py:161} INFO - Started process (PID=232) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:15:19.326+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:15:19.327+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:15:19.327+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:15:19.639+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:15:19.677+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:15:19.676+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:15:19.700+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:15:19.700+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:15:19.727+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.405 seconds
+[2026-01-30T21:15:49.987+0000] {processor.py:161} INFO - Started process (PID=238) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:15:49.988+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:15:49.990+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:15:49.989+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:15:50.377+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:15:50.406+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:15:50.405+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:15:50.418+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:15:50.418+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:15:50.441+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.457 seconds
+[2026-01-30T21:16:20.680+0000] {processor.py:161} INFO - Started process (PID=244) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:16:20.682+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:16:20.683+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:16:20.683+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:16:21.060+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:16:21.096+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:16:21.095+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:16:21.111+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:16:21.110+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:16:21.137+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.461 seconds
+[2026-01-30T21:16:51.393+0000] {processor.py:161} INFO - Started process (PID=250) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:16:51.394+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:16:51.396+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:16:51.395+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:16:51.687+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:16:51.713+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:16:51.713+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:16:51.727+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:16:51.727+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:16:51.751+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.361 seconds
+[2026-01-30T21:17:22.037+0000] {processor.py:161} INFO - Started process (PID=256) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:17:22.038+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:17:22.039+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:17:22.039+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:17:22.316+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:17:22.344+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:17:22.343+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:17:22.358+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:17:22.358+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:17:22.377+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.343 seconds
+[2026-01-30T21:17:52.667+0000] {processor.py:161} INFO - Started process (PID=262) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:17:52.668+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:17:52.670+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:17:52.669+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:17:52.965+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:17:52.992+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:17:52.991+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:17:53.014+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:17:53.014+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:17:53.038+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.374 seconds
+[2026-01-30T21:18:11.829+0000] {processor.py:161} INFO - Started process (PID=268) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:18:11.831+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:18:11.834+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:18:11.833+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:18:12.267+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:18:12.261+0000] {dagbag.py:350} ERROR - Failed to import: /opt/airflow/dags/transform.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/transform.py", line 101, in <module>
+    for row in hottest.to_dict("records"):
+NameError: name 'hottest' is not defined
+[2026-01-30T21:18:12.268+0000] {processor.py:842} WARNING - No viable dags retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:18:12.287+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.464 seconds
+[2026-01-30T21:18:15.230+0000] {processor.py:161} INFO - Started process (PID=274) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:18:15.232+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:18:15.233+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:18:15.233+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:18:15.582+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:18:15.619+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:18:15.618+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:18:15.636+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:18:15.635+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:18:15.678+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.450 seconds
+[2026-01-30T21:18:45.868+0000] {processor.py:161} INFO - Started process (PID=280) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:18:45.869+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:18:45.870+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:18:45.870+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:18:46.168+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:18:46.198+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:18:46.197+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:18:46.214+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:18:46.213+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:18:46.245+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.381 seconds
+[2026-01-30T21:19:27.156+0000] {processor.py:161} INFO - Started process (PID=176) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:19:27.158+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:19:27.160+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:19:27.160+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:19:28.574+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:19:28.866+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:19:28.865+0000] {override.py:1769} INFO - Created Permission View: can delete on DAG:etl_iot_temp_transform
+[2026-01-30T21:19:28.876+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:19:28.875+0000] {override.py:1769} INFO - Created Permission View: can edit on DAG:etl_iot_temp_transform
+[2026-01-30T21:19:28.886+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:19:28.886+0000] {override.py:1769} INFO - Created Permission View: can read on DAG:etl_iot_temp_transform
+[2026-01-30T21:19:28.887+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:19:28.887+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:19:28.902+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:19:28.901+0000] {dag.py:3069} INFO - Creating ORM DAG for etl_iot_temp_transform
+[2026-01-30T21:19:28.903+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:19:28.903+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:19:28.934+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 1.784 seconds
+[2026-01-30T21:19:59.212+0000] {processor.py:161} INFO - Started process (PID=182) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:19:59.214+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:19:59.215+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:19:59.215+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:19:59.562+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:19:59.604+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:19:59.603+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:19:59.628+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:19:59.628+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:19:59.655+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.448 seconds
+[2026-01-30T21:20:29.912+0000] {processor.py:161} INFO - Started process (PID=191) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:20:29.913+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:20:29.914+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:20:29.913+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:20:30.224+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:20:30.262+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:20:30.262+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:20:30.285+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:20:30.284+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:20:30.322+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.413 seconds
+[2026-01-30T21:21:00.556+0000] {processor.py:161} INFO - Started process (PID=197) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:21:00.558+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:21:00.560+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:21:00.560+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:21:00.967+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:21:01.012+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:21:01.010+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:21:01.034+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:21:01.034+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:21:01.065+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.513 seconds
+[2026-01-30T21:21:31.347+0000] {processor.py:161} INFO - Started process (PID=203) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:21:31.348+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:21:31.349+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:21:31.349+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:21:31.691+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:21:31.722+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:21:31.721+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:21:31.736+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:21:31.735+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:21:31.758+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.415 seconds
+[2026-01-30T21:22:01.984+0000] {processor.py:161} INFO - Started process (PID=209) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:22:01.996+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:22:01.999+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:22:01.998+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:22:02.329+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:22:02.358+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:22:02.357+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:22:02.373+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:22:02.373+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:22:02.395+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.414 seconds
+[2026-01-30T21:22:32.693+0000] {processor.py:161} INFO - Started process (PID=215) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:22:32.695+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:22:32.696+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:22:32.696+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:22:32.965+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:22:32.995+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:22:32.995+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:22:33.008+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:22:33.008+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:22:33.030+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.340 seconds
+[2026-01-30T21:23:03.253+0000] {processor.py:161} INFO - Started process (PID=221) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:23:03.254+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:23:03.256+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:23:03.255+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:23:03.554+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:23:03.583+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:23:03.582+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:23:03.596+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:23:03.596+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:23:03.616+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.367 seconds
+[2026-01-30T21:23:33.950+0000] {processor.py:161} INFO - Started process (PID=227) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:23:33.952+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:23:33.953+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:23:33.953+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:23:34.286+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:23:34.325+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:23:34.324+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:23:34.342+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:23:34.342+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:23:34.373+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.426 seconds
+[2026-01-30T21:24:04.644+0000] {processor.py:161} INFO - Started process (PID=233) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:24:04.645+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:24:04.646+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:24:04.646+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:24:04.909+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:24:04.937+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:24:04.937+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:24:04.953+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:24:04.953+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:24:04.983+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.341 seconds
+[2026-01-30T21:24:35.205+0000] {processor.py:161} INFO - Started process (PID=239) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:24:35.206+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:24:35.207+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:24:35.206+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:24:35.459+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:24:35.489+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:24:35.489+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:24:35.504+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:24:35.504+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:24:35.523+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.321 seconds
+[2026-01-30T21:25:05.817+0000] {processor.py:161} INFO - Started process (PID=245) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:25:05.818+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:25:05.819+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:25:05.819+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:25:06.096+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:25:06.125+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:25:06.125+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:25:06.138+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:25:06.138+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:25:06.161+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.347 seconds
+[2026-01-30T21:25:36.411+0000] {processor.py:161} INFO - Started process (PID=251) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:25:36.412+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:25:36.413+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:25:36.412+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:25:36.685+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:25:36.710+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:25:36.710+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:25:36.723+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:25:36.722+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:25:36.751+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.343 seconds
+[2026-01-30T21:26:07.061+0000] {processor.py:161} INFO - Started process (PID=257) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:26:07.062+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:26:07.063+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:26:07.063+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:26:07.387+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:26:07.412+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:26:07.411+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:26:07.427+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:26:07.427+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:26:07.453+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.395 seconds
+[2026-01-30T21:26:37.748+0000] {processor.py:161} INFO - Started process (PID=263) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:26:37.750+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:26:37.751+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:26:37.751+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:26:37.993+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:26:38.022+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:26:38.021+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:26:38.037+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:26:38.036+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:26:38.067+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.322 seconds
+[2026-01-30T21:27:08.313+0000] {processor.py:161} INFO - Started process (PID=269) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:27:08.315+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:27:08.317+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:27:08.317+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:27:08.657+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:27:08.684+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:27:08.684+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:27:08.699+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:27:08.699+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:27:08.723+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.421 seconds
+[2026-01-30T21:27:39.003+0000] {processor.py:161} INFO - Started process (PID=275) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:27:39.005+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:27:39.006+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:27:39.006+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:27:39.335+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:27:39.370+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:27:39.369+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:27:39.389+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:27:39.389+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:27:39.420+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.420 seconds
+[2026-01-30T21:28:09.751+0000] {processor.py:161} INFO - Started process (PID=281) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:28:09.752+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:28:09.753+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:28:09.753+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:28:10.053+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:28:10.076+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:28:10.075+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:28:10.085+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:28:10.085+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:28:10.106+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.358 seconds
+[2026-01-30T21:28:40.283+0000] {processor.py:161} INFO - Started process (PID=287) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:28:40.284+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:28:40.285+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:28:40.284+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:28:40.543+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:28:40.573+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:28:40.572+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:28:40.590+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:28:40.590+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:28:40.616+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.336 seconds
+[2026-01-30T21:29:10.795+0000] {processor.py:161} INFO - Started process (PID=293) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:29:10.796+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:29:10.798+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:29:10.797+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:29:11.044+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:29:11.067+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:29:11.066+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:29:11.077+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:29:11.077+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:29:11.093+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.301 seconds
+[2026-01-30T21:29:41.427+0000] {processor.py:161} INFO - Started process (PID=299) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:29:41.428+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:29:41.429+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:29:41.429+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:29:41.676+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:29:41.707+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:29:41.706+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:29:41.721+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:29:41.720+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:29:41.753+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.329 seconds
+[2026-01-30T21:30:11.972+0000] {processor.py:161} INFO - Started process (PID=305) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:30:11.974+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:30:11.979+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:30:11.979+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:30:12.409+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:30:12.438+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:30:12.438+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:30:12.451+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:30:12.450+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:30:12.476+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.508 seconds
+[2026-01-30T21:30:42.672+0000] {processor.py:161} INFO - Started process (PID=311) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:30:42.673+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:30:42.674+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:30:42.674+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:30:42.896+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:30:42.920+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:30:42.919+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:30:42.931+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:30:42.930+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:30:42.946+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.276 seconds
+[2026-01-30T21:31:13.106+0000] {processor.py:161} INFO - Started process (PID=317) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:31:13.107+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:31:13.109+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:31:13.108+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:31:13.356+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:31:13.381+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:31:13.381+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:31:13.393+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:31:13.393+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:31:13.416+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.313 seconds
+[2026-01-30T21:31:43.594+0000] {processor.py:161} INFO - Started process (PID=323) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:31:43.595+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:31:43.596+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:31:43.596+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:31:43.869+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:31:43.897+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:31:43.897+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:31:43.910+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:31:43.910+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:31:43.931+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.339 seconds
+[2026-01-30T21:32:14.125+0000] {processor.py:161} INFO - Started process (PID=329) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:32:14.126+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:32:14.126+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:32:14.126+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:32:14.364+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:32:14.390+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:32:14.390+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:32:14.405+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:32:14.404+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:32:14.426+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.304 seconds
+[2026-01-30T21:32:44.758+0000] {processor.py:161} INFO - Started process (PID=335) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:32:44.760+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:32:44.761+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:32:44.761+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:32:45.045+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:32:45.072+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:32:45.072+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:32:45.087+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:32:45.087+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:32:45.109+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.355 seconds
+[2026-01-30T21:33:15.347+0000] {processor.py:161} INFO - Started process (PID=341) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:33:15.348+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:33:15.349+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:33:15.349+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:33:15.594+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:33:15.624+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:33:15.624+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:33:15.640+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:33:15.640+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:33:15.662+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.318 seconds
+[2026-01-30T21:33:45.998+0000] {processor.py:161} INFO - Started process (PID=347) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:33:45.999+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:33:45.999+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:33:45.999+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:33:46.225+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:33:46.247+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:33:46.247+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:33:46.269+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:33:46.269+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:33:46.308+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.312 seconds
+[2026-01-30T21:34:16.525+0000] {processor.py:161} INFO - Started process (PID=353) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:34:16.525+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:34:16.526+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:34:16.526+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:34:16.739+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:34:16.762+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:34:16.761+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:34:16.773+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:34:16.772+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:34:16.790+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.268 seconds
+[2026-01-30T21:34:46.943+0000] {processor.py:161} INFO - Started process (PID=359) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:34:46.944+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:34:46.945+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:34:46.944+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:34:47.191+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:34:47.218+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:34:47.218+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:34:47.236+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:34:47.235+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:34:47.256+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.316 seconds
+[2026-01-30T21:35:17.447+0000] {processor.py:161} INFO - Started process (PID=365) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:35:17.447+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:35:17.448+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:35:17.448+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:35:17.695+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:35:17.719+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:35:17.719+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:35:17.731+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:35:17.731+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:35:17.752+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.308 seconds
+[2026-01-30T21:35:47.971+0000] {processor.py:161} INFO - Started process (PID=371) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:35:47.972+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:35:47.973+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:35:47.973+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:35:48.225+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:35:48.254+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:35:48.253+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:35:48.266+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:35:48.265+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:35:48.285+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.318 seconds
+[2026-01-30T21:36:18.538+0000] {processor.py:161} INFO - Started process (PID=377) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:36:18.539+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:36:18.541+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:36:18.540+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:36:18.852+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:36:18.882+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:36:18.882+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:36:18.897+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:36:18.896+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:36:18.928+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.394 seconds
+[2026-01-30T21:36:49.185+0000] {processor.py:161} INFO - Started process (PID=383) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:36:49.186+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:36:49.187+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:36:49.186+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:36:49.421+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:36:49.443+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:36:49.443+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:36:49.461+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:36:49.461+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:36:49.479+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.297 seconds
+[2026-01-30T21:37:19.663+0000] {processor.py:161} INFO - Started process (PID=389) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:37:19.665+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:37:19.679+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:37:19.678+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:37:19.931+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:37:19.957+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:37:19.957+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:37:19.969+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:37:19.968+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:37:19.990+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.329 seconds
+[2026-01-30T21:37:50.313+0000] {processor.py:161} INFO - Started process (PID=395) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:37:50.314+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:37:50.315+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:37:50.315+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:37:50.532+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:37:50.551+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:37:50.551+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:37:50.561+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:37:50.561+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:37:50.576+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.265 seconds
+[2026-01-30T21:38:20.760+0000] {processor.py:161} INFO - Started process (PID=401) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:38:20.761+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:38:20.762+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:38:20.762+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:38:20.994+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:38:21.018+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:38:21.018+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:38:21.031+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:38:21.030+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:38:21.051+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.293 seconds
+[2026-01-30T21:38:51.284+0000] {processor.py:161} INFO - Started process (PID=407) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:38:51.285+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:38:51.286+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:38:51.286+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:38:51.528+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:38:51.552+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:38:51.551+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:38:51.563+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:38:51.563+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:38:51.585+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.305 seconds
+[2026-01-30T21:39:21.792+0000] {processor.py:161} INFO - Started process (PID=413) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:39:21.794+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:39:21.795+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:39:21.794+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:39:22.015+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:39:22.038+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:39:22.038+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:39:22.049+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:39:22.049+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:39:22.065+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.275 seconds
+[2026-01-30T21:39:52.256+0000] {processor.py:161} INFO - Started process (PID=419) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:39:52.258+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:39:52.259+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:39:52.258+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:39:52.517+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:39:52.539+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:39:52.539+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:39:52.550+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:39:52.550+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:39:52.568+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.315 seconds
+[2026-01-30T21:40:22.740+0000] {processor.py:161} INFO - Started process (PID=425) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:40:22.741+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:40:22.742+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:40:22.741+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:40:23.000+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:40:23.022+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:40:23.021+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:40:23.032+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:40:23.032+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:40:23.051+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.314 seconds
+[2026-01-30T21:40:53.220+0000] {processor.py:161} INFO - Started process (PID=431) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:40:53.221+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:40:53.222+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:40:53.222+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:40:53.463+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:40:53.487+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:40:53.486+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:40:53.501+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:40:53.501+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:40:53.524+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.306 seconds
+[2026-01-30T21:41:23.767+0000] {processor.py:161} INFO - Started process (PID=437) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:41:23.768+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:41:23.769+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:41:23.769+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:41:24.040+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:41:24.070+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:41:24.069+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:41:24.097+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:41:24.097+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:41:24.140+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.376 seconds
+[2026-01-30T21:41:54.347+0000] {processor.py:161} INFO - Started process (PID=443) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:41:54.348+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:41:54.349+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:41:54.349+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:41:54.588+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:41:54.617+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:41:54.616+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:41:54.629+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:41:54.629+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:41:54.647+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.302 seconds
+[2026-01-30T21:42:24.803+0000] {processor.py:161} INFO - Started process (PID=449) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:42:24.804+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:42:24.805+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:42:24.805+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:42:25.050+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:42:25.073+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:42:25.072+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:42:25.084+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:42:25.084+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:42:25.103+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.302 seconds
+[2026-01-30T21:42:55.337+0000] {processor.py:161} INFO - Started process (PID=455) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:42:55.338+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:42:55.339+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:42:55.339+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:42:55.612+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:42:55.638+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:42:55.637+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:42:55.673+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:42:55.673+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:42:55.700+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.366 seconds
+[2026-01-30T21:43:25.935+0000] {processor.py:161} INFO - Started process (PID=461) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:43:25.936+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:43:25.937+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:43:25.937+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:43:26.278+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:43:26.312+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:43:26.312+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:43:26.328+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:43:26.327+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:43:26.351+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.419 seconds
+[2026-01-30T21:43:56.564+0000] {processor.py:161} INFO - Started process (PID=467) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:43:56.566+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:43:56.567+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:43:56.567+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:43:57.005+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:43:57.037+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:43:57.036+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:43:57.047+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:43:57.047+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:43:57.065+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.505 seconds
+[2026-01-30T21:44:27.253+0000] {processor.py:161} INFO - Started process (PID=473) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:44:27.254+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:44:27.254+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:44:27.254+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:44:27.513+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:44:27.538+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:44:27.538+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:44:27.551+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:44:27.551+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:44:27.572+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.323 seconds
+[2026-01-30T21:44:57.911+0000] {processor.py:161} INFO - Started process (PID=479) to work on /opt/airflow/dags/transform.py
+[2026-01-30T21:44:57.913+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/transform.py for tasks to queue
+[2026-01-30T21:44:57.916+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:44:57.915+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/transform.py
+[2026-01-30T21:44:58.678+0000] {processor.py:840} INFO - DAG(s) 'etl_iot_temp_transform' retrieved from /opt/airflow/dags/transform.py
+[2026-01-30T21:44:58.757+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:44:58.756+0000] {dag.py:3047} INFO - Sync 1 DAGs
+[2026-01-30T21:44:58.786+0000] {logging_mixin.py:188} INFO - [2026-01-30T21:44:58.785+0000] {dag.py:3834} INFO - Setting next_dagrun for etl_iot_temp_transform to None, run_after=None
+[2026-01-30T21:44:58.821+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/transform.py took 0.917 seconds
