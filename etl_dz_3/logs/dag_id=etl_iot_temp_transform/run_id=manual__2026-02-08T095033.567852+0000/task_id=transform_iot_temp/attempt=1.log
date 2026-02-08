@@ -1,0 +1,33 @@
+[2026-02-08T09:50:34.885+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: etl_iot_temp_transform.transform_iot_temp manual__2026-02-08T09:50:33.567852+00:00 [queued]>
+[2026-02-08T09:50:34.892+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: etl_iot_temp_transform.transform_iot_temp manual__2026-02-08T09:50:33.567852+00:00 [queued]>
+[2026-02-08T09:50:34.893+0000] {taskinstance.py:2193} INFO - Starting attempt 1 of 1
+[2026-02-08T09:50:34.905+0000] {taskinstance.py:2217} INFO - Executing <Task(PythonOperator): transform_iot_temp> on 2026-02-08 09:50:33.567852+00:00
+[2026-02-08T09:50:34.909+0000] {standard_task_runner.py:60} INFO - Started process 195 to run task
+[2026-02-08T09:50:34.911+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'etl_iot_temp_transform', 'transform_iot_temp', 'manual__2026-02-08T09:50:33.567852+00:00', '--job-id', '21', '--raw', '--subdir', 'DAGS_FOLDER/transform.py', '--cfg-path', '/tmp/tmp274inctn']
+[2026-02-08T09:50:34.916+0000] {standard_task_runner.py:88} INFO - Job 21: Subtask transform_iot_temp
+[2026-02-08T09:50:34.961+0000] {task_command.py:423} INFO - Running <TaskInstance: etl_iot_temp_transform.transform_iot_temp manual__2026-02-08T09:50:33.567852+00:00 [running]> on host 785fc3bccf94
+[2026-02-08T09:50:35.055+0000] {taskinstance.py:2513} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='etl_iot_temp_transform' AIRFLOW_CTX_TASK_ID='transform_iot_temp' AIRFLOW_CTX_EXECUTION_DATE='2026-02-08T09:50:33.567852+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-02-08T09:50:33.567852+00:00'
+[2026-02-08T09:50:35.059+0000] {transform.py:37} INFO - Читаю CSV: /opt/***/dags/data/IOT-temp.csv
+[2026-02-08T09:50:35.217+0000] {transform.py:46} INFO - Строк до фильтраций: 97606
+[2026-02-08T09:50:35.265+0000] {transform.py:51} INFO - После фильтра out/in == in: 20345
+[2026-02-08T09:50:35.312+0000] {transform.py:76} INFO - Percentiles temp: p5=27.000, p95=34.000
+[2026-02-08T09:50:35.315+0000] {transform.py:80} INFO - После чистки по [p5, p95]: 19000 (удалено 1345)
+[2026-02-08T09:50:35.325+0000] {transform.py:100} INFO - === 5 самых жарких дней (по средней температуре дня) ===
+[2026-02-08T09:50:35.329+0000] {transform.py:102} INFO - date=2018-09-30 avg=34.000 min=34.000 max=34.000 n=10
+[2026-02-08T09:50:35.330+0000] {transform.py:102} INFO - date=2018-09-22 avg=34.000 min=34.000 max=34.000 n=26
+[2026-02-08T09:50:35.331+0000] {transform.py:102} INFO - date=2018-10-11 avg=34.000 min=34.000 max=34.000 n=2
+[2026-02-08T09:50:35.332+0000] {transform.py:102} INFO - date=2018-09-29 avg=33.788 min=33.000 max=34.000 n=80
+[2026-02-08T09:50:35.333+0000] {transform.py:102} INFO - date=2018-10-12 avg=33.490 min=30.000 max=34.000 n=49
+[2026-02-08T09:50:35.333+0000] {transform.py:107} INFO - === 5 самых холодных дней (по средней температуре дня) ===
+[2026-02-08T09:50:35.334+0000] {transform.py:109} INFO - date=2018-09-06 avg=27.411 min=27.000 max=29.000 n=591
+[2026-02-08T09:50:35.334+0000] {transform.py:109} INFO - date=2018-09-05 avg=27.889 min=27.000 max=28.000 n=9
+[2026-02-08T09:50:35.335+0000] {transform.py:109} INFO - date=2018-12-04 avg=28.119 min=27.000 max=31.000 n=260
+[2026-02-08T09:50:35.335+0000] {transform.py:109} INFO - date=2018-12-06 avg=28.267 min=27.000 max=31.000 n=292
+[2026-02-08T09:50:35.335+0000] {transform.py:109} INFO - date=2018-11-27 avg=28.448 min=27.000 max=30.000 n=87
+[2026-02-08T09:50:35.336+0000] {transform.py:115} INFO - Уникальных дней в датасете после обработки: 72
+[2026-02-08T09:50:35.336+0000] {transform.py:116} INFO - Диапазон дат: 2018-07-28 .. 2018-12-08
+[2026-02-08T09:50:35.408+0000] {transform.py:131} INFO - Преобразованные данные сохранены в: /opt/***/dags/data/transformed/iot_temp_transformed.csv (строк: 19000)
+[2026-02-08T09:50:35.410+0000] {python.py:202} INFO - Done. Returned value was: None
+[2026-02-08T09:50:35.417+0000] {taskinstance.py:1149} INFO - Marking task as SUCCESS. dag_id=etl_iot_temp_transform, task_id=transform_iot_temp, execution_date=20260208T095033, start_date=20260208T095034, end_date=20260208T095035
+[2026-02-08T09:50:35.447+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2026-02-08T09:50:35.462+0000] {taskinstance.py:3312} INFO - 0 downstream tasks scheduled from follow-on schedule check
