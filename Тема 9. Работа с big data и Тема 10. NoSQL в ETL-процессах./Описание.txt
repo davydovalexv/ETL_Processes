@@ -1,5 +1,13 @@
+02.05.2026
 Был создан кластер Yandex StoreDoc - storedoc663
 Был создан кластер Yandex Managed Service for Kafka - kafka227
 Данные из файла sample.json были загружены в Kafka 
 однако данные из Kafka до монго не дошли была получена ошибка: 
 Ошибка на приемнике и replication: failed to initialize LocalWorker: failed to initialize basic replication strategy: failed to create sink: failed to construct sink: unable to create *mongo.MongoDestination:
+
+03.05.2026
+1. Были изменены группы безопасности
+2. Был пересоздан трансфер kafka-mongo
+3. Были пересозданы эндпоинты kafka и mongo
+4. Трансфер завершился успехом, данные записаны в базу db1 (скриншот прилагается)
+
